@@ -10,7 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52e994e1-1671-467f-b3a0-5fac8c801e57" name="Default Changelist" comment="" />
+    <list default="true" id="52e994e1-1671-467f-b3a0-5fac8c801e57" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../2_Feladat/Feladat_2/.idea/.idea.Feladat_2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Feladat/Feladat_2/.idea/.idea.Feladat_2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Feladat/Feladat_2/.idea/.idea.Feladat_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Feladat/Feladat_2/.idea/.idea.Feladat_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Feladat/Feladat_2/Feladat_2/obj/Debug/Feladat_2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Feladat/Feladat_2/Feladat_2/obj/Debug/Feladat_2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../beugro.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../beugro.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$beugro.xlsx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604864303178</updated>
       <workItem from="1604864304736" duration="384000" />
+      <workItem from="1605267827962" duration="132000" />
     </task>
     <servers />
   </component>
@@ -64,6 +71,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="744" y="213" width="1071" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604868994640">
